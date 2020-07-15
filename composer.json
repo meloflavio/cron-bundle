@@ -1,5 +1,5 @@
 {
-    "name": "shapecode/cron-bundle",
+    "name": "meloflavio/cron-bundle",
     "description": "This bundle provides scheduled execution of Symfony commands",
     "keywords": [
         "cron",
@@ -34,7 +34,7 @@
         }
     ],
     "require": {
-        "php": "~7.2",
+        "php": "~7.1",
 
         "symfony/framework-bundle": "^4.4|^5.0",
         "symfony/dependency-injection": "^4.4|^5.0",
